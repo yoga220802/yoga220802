@@ -1,5 +1,5 @@
 ```javascript
-const yoga220802 = {
+let yoga220802 = {
     fullName: "Yoga Agustiansyah",
     gender: "Male",
     pronouns: "He" || "Him",

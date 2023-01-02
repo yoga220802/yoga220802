@@ -3,10 +3,11 @@ const yoga220802 = {
     fullName: "Yoga Agustiansyah",
     gender: "Male",
     pronouns: "He" || "Him",
-    programmingLanguage: [
+    code: [
         "JavaScript",
         "Dart",
-        "Go"
+        "Go",
+        "Python"
     ],
     framework: ["Flutter"],
     Library: ["React Native"],
@@ -16,6 +17,16 @@ const yoga220802 = {
             "React Native"
         ],
         webFrontEnd: []
-    }
+    },
+    currentlyStudying: [
+        "React Native",
+        "Flutter",
+        "React",
+        "Node JS",
+        "Golang",
+        "Python",
+        "HTML 5",
+        "CSS"
+    ]
 }
 ```

@@ -27,7 +27,7 @@ let yoga220802 = {
         "Golang",
         "Python",
         "HTML 5",
-        "CSS"
+        "CSS",
     ]
 }
 ```

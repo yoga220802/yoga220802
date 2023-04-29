@@ -5,6 +5,7 @@ let yoga220802 = {
     pronouns: "He" || "Him",
     code: [
         "JavaScript",
+        "TypeScript",
         "Dart",
         "Go",
         "Python"

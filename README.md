@@ -11,7 +11,6 @@
         src="https://github-readme-stats.vercel.app/api?username=yoga220802&theme=dracula"
         alt="stats"
       />
-
       <div style="display: flex; flex-direction: column">
         <a
           href="https://github.com/yoga220802/Covid19-Care"

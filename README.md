@@ -1,4 +1,4 @@
-<!-- <!-- ```javascript
+```javascript
 let yoga220802 = {
     fullName: "Yoga Agustiansyah",
     gender: "Male",
@@ -30,10 +30,10 @@ let yoga220802 = {
         "CSS",
     ]
 }
-``` -->
+```
 
   
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga220802&langs_count=5&include_all_commits=true&show_icons=true&count_private=true&theme=dracula" alt="Anurag's github stats" /> | <a href="https://github.com/yoga220802/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga220802&theme=dracula" /></a>  |
+<!-- |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga220802&langs_count=5&include_all_commits=true&show_icons=true&count_private=true&theme=dracula" alt="Anurag's github stats" /> | <a href="https://github.com/yoga220802/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga220802&theme=dracula" /></a>  |
 | ------------- | ------------- |
 
 ### My Top Repo
@@ -49,4 +49,4 @@ let yoga220802 = {
 <br />
 <br />
 <br />
- 
+  -->

@@ -1,12 +1,18 @@
 # WELCOME TO MY PROFILE
 ## My Stats
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga220802&langs_count=5&include_all_commits=true&show_icons=true&count_private=true&theme=dracula" alt="Anurag's github stats" /> | <a href="https://github.com/yoga220802/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga220802&theme=dracula" /></a>  |
-| ------------- | ------------- |
+<div style="display: flex; flex-direction: row;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga220802&langs_count=5&include_all_commits=true&show_icons=true&count_private=true&theme=dracula" alt="Anurag's github stats" style="margin-right: 5px;" />
+  <a href="https://github.com/yoga220802/" style="margin-right: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga220802&theme=dracula" />
+  </a>
+</div>
+
+
 
 ## My Top Repo
 <div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/yoga220802/Covid19-Care" style="margin-right: 10px;">
+  <a href="https://github.com/yoga220802/Covid19-Care" style="margin-right: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Covid19-Care&theme=dracula" />
   </a>
   <a href="https://github.com/yoga220802/NewsApp_With_Flutter">

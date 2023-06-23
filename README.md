@@ -31,8 +31,6 @@ let yoga220802 = {
         "Go",
         "Python"
     ],
-    framework: ["Flutter"],
-    Library: ["React Native"],
     technologies: {
         mobileApp : [
             "Flutter",

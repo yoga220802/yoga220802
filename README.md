@@ -11,14 +11,15 @@
 
 
 ## My Top Repo
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/yoga220802/Covid19-Care" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Covid19-Care&theme=dracula" />
+<p align="center">
+  <a href="https://github.com/yoga220802/Covid19-Care" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Covid19-Care&theme=dracula" alt="Covid19-Care" />
   </a>
-  <a href="https://github.com/yoga220802/NewsApp_With_Flutter" style="margin: 10px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=NewsApp_With_Flutter&theme=dracula" />
+  <a href="https://github.com/yoga220802/NewsApp_With_Flutter" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=NewsApp_With_Flutter&theme=dracula" alt="NewsApp_With_Flutter" />
   </a>
-</div>
+</p>
+
 
 <br />
 <br />

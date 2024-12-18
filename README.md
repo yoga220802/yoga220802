@@ -22,7 +22,7 @@
   </a>
   <img align="center" src="./assets/space.png">
   <a href="https://github.com/yoga220802/Kasir-Apotek-ReactJS" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&Kasir-Apotek-ReactJS&theme=dracula" alt="Kasir-Apotek-ReactJS" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoga220802&repo=Kasir-Apotek-ReactJS&theme=dracula" alt="Kasir-Apotek-ReactJS" />
   </a>
   <img align="center" src="./assets/space.png">
   <a href="https://github.com/yoga220802/BackEnd-kasir-apotek-Express-TS" style="margin-right: 10px;">
